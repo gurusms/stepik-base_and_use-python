@@ -1,4 +1,5 @@
 # https://stackoverflow.com/questions/1124884/interact-with-a-windows-console-application-via-python
+# https://stackoverflow.com/questions/375427/non-blocking-read-on-a-subprocess-pipe-in-python
 from subprocess import *
 import re
 
